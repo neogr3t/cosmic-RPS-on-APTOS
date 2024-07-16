@@ -1,0 +1,12 @@
+[package]
+name = 'rock_paper_scissors'
+version = '1.0.0'
+
+[dependencies.AptosFramework]
+git = 'https://github.com/aptos-labs/aptos-core.git'
+
+rev = 'main'
+subdir = 'aptos-move/framework/aptos-framework'
+
+[addresses]
+rock_paper_scissors_addr='0x19648f869201507ccd15e4dc3b900f730ba44c19811d0bbb1dd72bd0f1cc5c4d'
