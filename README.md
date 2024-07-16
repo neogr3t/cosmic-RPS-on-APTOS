@@ -8,7 +8,7 @@ Cosmic Rock Paper Scissors is an innovative blockchain-based game that brings th
 
 The primary purpose of Cosmic Rock Paper Scissors is to demonstrate the potential of blockchain technology in gaming, specifically on the Aptos network. It aims to provide an engaging, user-friendly experience that introduces players to decentralized applications and smart contract interactions in a fun and familiar context.
 
-## Team Objectives
+## Objectives
 
 1. Showcase the capabilities of the Aptos blockchain for gaming applications
 2. Implement a secure and transparent gaming mechanism using smart contracts
