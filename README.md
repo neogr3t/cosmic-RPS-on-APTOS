@@ -36,3 +36,69 @@ To play Cosmic Rock Paper Scissors:
 4. Initialize the game and start playing!
 
 Note: No specific login credentials are required. Players only need an Aptos wallet with Devnet APT tokens to interact with the game.
+
+## Tech Stack
+
+### Frontend
+
+- React: JavaScript library for building user interfaces
+- TypeScript: Typed superset of JavaScript for improved developer experience
+- Ant Design (antd): React UI library for design components
+- CSS: For custom styling and layout
+
+### Blockchain Integration
+
+- Aptos SDK: For interacting with the Aptos blockchain
+- @aptos-labs/wallet-adapter-react: React hooks for Aptos wallet integration
+- @aptos-labs/wallet-adapter-ant-design: Ant Design components for Aptos wallet connection
+
+### Smart Contract
+
+- Move: Programming language for Aptos smart contracts
+
+### Blockchain Network
+
+- Aptos: Layer 1 blockchain network (Devnet for development/testing)
+
+### State Management
+
+- React Hooks (useState, useEffect): For local state management
+
+### Development Environment
+
+- Node.js: JavaScript runtime for development
+- npm/yarn: Package manager for JavaScript
+
+### Version Control
+
+- Git: For source code management
+
+### Styling
+
+- Custom CSS
+- Ant Design's built-in styling system
+
+### Icons
+
+- Ant Design Icons: Icon set from Ant Design
+
+### API Interaction
+
+- Aptos Provider: For interacting with Aptos blockchain API
+
+### Transaction Handling
+
+- Aptos SDK's transaction builder and signer
+
+### Development Tools
+
+- Web browser (Chrome, Brave) for testing and debugging
+- Developer tools for React and browser inspection
+
+### Hosting Service
+
+- Netlify (for deployment)
+
+### Image Hosting
+
+- Unsplash: For background image (as seen in the code)
